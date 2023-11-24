@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-aEAEjZvLX08q205flMFodrhPATyniNDFFjCGOCTBnrQ=",
+      "hash": "sha256-YhSzILWxNza\/OD3c5oXGSQz+OWtYfmhXt9eOD\/TcDUY=",
       "url": "PaginaToros.Client.styles.css"
     },
     {
@@ -9,11 +9,11 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7\/p4nS6D\/0=",
+      "hash": "sha256-KZf9dy0xH+U0ke52xznlZUZTiEm65GQhLNw1QXA2Z\/8=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
-      "hash": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "hash": "sha256-JCR4A+sfMmVpgainoqUm0kI65Fhz6VR43BBp8IBTkJ8=",
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
@@ -81,7 +81,11 @@
       "url": "images\/logo_AACH.png"
     },
     {
-      "hash": "sha256-JhUMoYpKxLWx\/AM\/1of359qLEKfFQS2KaHIU91YFbxI=",
+      "hash": "sha256-JhRo08X16bF6igPnU4jek12Biv7O9djT1\/6jQrD+zWk=",
+      "url": "images\/mantenimiento.png"
+    },
+    {
+      "hash": "sha256-uBMy0U1KdUj19p0lLONreCdhMBHFfb2RpvLkfayKkGU=",
       "url": "index.html"
     },
     {
@@ -121,7 +125,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-MtsvGCCae53G8n0qrXkL4LXc+fze02sC1hBaeazNbI8=",
+      "hash": "sha256-su2wz9606RWSzo8oPx5WoOmWR5F6BCk7hAR6SNL0Mi0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -309,11 +313,11 @@
       "url": "_framework\/Newtonsoft.Json.dll"
     },
     {
-      "hash": "sha256-kM4hPo\/HOygcyd9ZQDEw3uGcWLSYkTdxFvFuvkE9j\/A=",
+      "hash": "sha256-jCgQVDYfnnZVyUNAyHyoaJmrAT12572JWjHQoB69AXQ=",
       "url": "_framework\/PaginaToros.Client.dll"
     },
     {
-      "hash": "sha256-eR6GJDyH\/aQUT0\/QfviDG\/j3a+ueyoCZDa3KG2zJ4rY=",
+      "hash": "sha256-Nft\/gl\/4BQW7HHa8RIRK9WtaHzSsxG+hyivC1zNYpTI=",
       "url": "_framework\/PaginaToros.Shared.dll"
     },
     {
@@ -553,7 +557,7 @@
       "url": "_framework\/System.Text.Encodings.Web.dll"
     },
     {
-      "hash": "sha256-gYuR1LBrkCP6u3L68Ju0HJtfu43\/0\/GMflpyLjtnJhw=",
+      "hash": "sha256-tq9bXvLyzOw3vv7uC2gh+BkgVqnE5ZYzOZX\/z4x4+wY=",
       "url": "_framework\/System.Text.Json.dll"
     },
     {
@@ -865,5 +869,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "FXxPiOkV"
+  "version": "pAGdgOeO"
 };
